@@ -1,0 +1,35 @@
+# Unreal Engine generated folders + files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.vscode/
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj/
+*.xcworkspace/
+
+# Visual Studio / Rider / VSCode generated project files
+*.csproj
+*.csproj.user
+*.user
+.idea/
+
+# Compiled binaries
+*.dll
+*.exe
+*.pdb
+*.lib
+*.so
+*.dylib
+
+# Editor user settings
+DefaultEditorPerProjectUserSettings.ini
+
+# Crash logs
+*.dmp
