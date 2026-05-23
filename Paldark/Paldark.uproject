@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{308E2FB5-4170-A04E-31F5-299674C15D66}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Paldark",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
